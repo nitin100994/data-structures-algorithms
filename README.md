@@ -7,3 +7,5 @@ Q2 Remove Spaces
 
 Remove spaces from a given string
 Given a string, remove all spaces from the string and return it.
+Input:  " Nit in "
+Output: "Nitin"
