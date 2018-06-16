@@ -11,7 +11,7 @@ Given a string, remove all spaces from the string and return it.
 Input:  " Nit in "
 Output: "Nitin"
 
-Q2 Array Rotation
+Q3 Array Rotation
 
 Program for array rotation
 Write a function rotate(ar[], d, n) that rotates arr[] of size n by d elements.
