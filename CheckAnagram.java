@@ -5,11 +5,9 @@ class CheckAnagram
     boolean isAnagram(String str1,String str2){
         if(str1.length() != str2.length()){
             return false;
-<<<<<<< HEAD
         }
         int countarr[] = new int[no_of_chars];
-=======
->>>>>>> 9b3a0d401eb3296bd8860d7bf72d7807f9ddbc05
+
         for(int i=0;i<str1.length()&&i<str2.length();i++){
             countarr[str1.toLowerCase().charAt(i)]++;
             countarr[str2.toLowerCase().charAt(i)]--;
