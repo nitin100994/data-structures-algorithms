@@ -23,3 +23,9 @@ Example left rotation by 2
 		3,4,5,6,7,1,2	
 		
 Here d is no of rotaions.
+ 
+Q4 Pangram Checking
+Given a string check if it is Pangram or not. A pangram is a sentence containing every letter in the English Alphabet.
+
+Examples : The quick brown fox jumps over the lazy dog ” is a Pangram [Contains all the characters from ‘a’ to ‘z’]
+“The quick brown fox jumps over the dog” is not a Pangram [Doesn’t contains all the characters from ‘a’ to ‘z’, as ‘l’, ‘z’, ‘y’ are missing] 
