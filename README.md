@@ -30,4 +30,4 @@ Given a string check if it is Pangram or not. A pangram is a sentence containing
 Examples : The quick brown fox jumps over the lazy dog ” is a Pangram [Contains all the characters from ‘a’ to ‘z’]
 “The quick brown fox jumps over the dog” is not a Pangram [Doesn’t contains all the characters from ‘a’ to ‘z’, as ‘l’, ‘z’, ‘y’ are missing] 
 
-Q5 Remove duplicate from a string
+Q5 Remove duplicate from a string.
