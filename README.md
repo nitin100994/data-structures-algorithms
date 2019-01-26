@@ -31,3 +31,5 @@ Examples : The quick brown fox jumps over the lazy dog ” is a Pangram [Contain
 “The quick brown fox jumps over the dog” is not a Pangram [Doesn’t contains all the characters from ‘a’ to ‘z’, as ‘l’, ‘z’, ‘y’ are missing] 
 
 Q5 Remove duplicate from a string.
+
+Q6 Reverse an array without affecting special characters.
